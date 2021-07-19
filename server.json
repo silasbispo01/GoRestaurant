@@ -1,0 +1,12 @@
+{
+  "foods": [
+    {
+      "image": "https://github.com/silasbispo01.png",
+      "name": "Silas",
+      "price": "20 a hora",
+      "description": "Programador Front-end",
+      "available": true,
+      "id": 3
+    }
+  ]
+}
